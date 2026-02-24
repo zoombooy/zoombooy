@@ -40,10 +40,8 @@
 - [在`npm install`后提示用户消息或捐赠](https://github.com/JoeyBling/openteam-postinstall)
 
 ### 关于我
-- [技术笔记](https://zhousiwei.gitee.io/ibooks/)
-- [CSDN](https://zhousiwei.blog.csdn.net/)
-- [微博](http://weibo.com/jayinfo)
+- [CSDN](https://blog.csdn.net/weixin_43702295?type=blog)
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
-⭐️ From [JoeyBling](https://github.com/zoombooy)
+⭐️ From [zoomboy](https://github.com/zoombooy)

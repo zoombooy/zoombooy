@@ -31,6 +31,7 @@
 - [AI知识库管理平台](https://github.com/zoombooy/ai-vector/tree/main)
 - [千问3多模态](https://github.com/zoombooy/run-qwen3-omni-main)
 - [NBA商店](https://github.com/zoombooy/nbastoreui)
+- [skills监控平台](https://github.com/zoombooy/skills-platform)
 
 ### 关于我
 - [CSDN](https://blog.csdn.net/weixin_43702295?type=blog)

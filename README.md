@@ -28,9 +28,9 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
 ### 开源项目
-- [AI管理平台](https://github.com/zoombooy/ai-vector/tree/main)
+- [AI知识库管理平台](https://github.com/zoombooy/ai-vector/tree/main)
 - [千问3多模态](https://github.com/zoombooy/run-qwen3-omni-main)
-
+- [NBA商店](https://github.com/zoombooy/nbastoreui)
 
 ### 关于我
 - [CSDN](https://blog.csdn.net/weixin_43702295?type=blog)
